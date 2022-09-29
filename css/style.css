@@ -1,0 +1,73 @@
+.box {
+    border: 20cm;
+    height: 5cm;
+    width: 15cm;
+    margin: 1cm;
+    background-color: orange;
+    float: left;
+    
+}
+
+.body {
+    background-color: rgb(255, 0, 255);
+    width: 800px;
+    margin: auto;
+    
+}
+
+.nav {
+      background-color: rgb(235, 0, 156);
+      border-color: gold;
+      border-width: 5px;
+      border-radius: 25px;
+     }
+
+header nav ul li {
+                  list-style-type: none;
+                  display: inline;
+                  font-size: large;
+                  font-weight: bold;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color:white
+}
+
+header nav ul li a:hover {
+                          color: #000;
+                         }
+
+section { border-width: 5px;
+    border-style: solid;
+    border-color: gold
+}
+
+article a {
+    color: black;
+    
+}
+article a:hover {
+    color: gold
+    
+}
+
+footer a {
+    color: black;
+}
+
+footer a:hover {
+    color: gold;
+}
+
+footer {
+    background-color: rgb(235, 0, 156);
+    border-color: gold;
+    border-width: 5px;
+    border-radius: 25px;
+    height: 2cm;
+   }
+
+   body {
+    font-size: large;
+}
